@@ -1,9 +1,8 @@
 ### Hi there 👋
-
+[![An image of @johan18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/johan18)](https://holopin.io/@johan18)
 <!--
 **eyeshieldd/eyeshieldd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-[![An image of @johan18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/johan18)](https://holopin.io/@johan18)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
